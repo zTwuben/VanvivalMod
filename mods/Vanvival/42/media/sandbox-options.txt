@@ -1,0 +1,13 @@
+VERSION = 1,
+
+option Vanvival.PurgeOnSpawn
+{
+	type = boolean, default = true,
+	page = Vanvival, translation = PurgeOnSpawn,
+}
+
+option Vanvival.PurgeDistance
+{
+	type = integer, min = 10, max = 75, default = 20,
+	page = Vanvival, translation = PurgeDistance,
+}

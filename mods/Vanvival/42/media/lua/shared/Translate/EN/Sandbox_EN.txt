@@ -1,0 +1,9 @@
+Sandbox_EN = {
+    Sandbox_Vanvival = "Vanvival",
+
+    Sandbox_PurgeOnSpawn = "Purge On Spawn",
+    Sandbox_PurgeOnSpawn_tooltip = "Enable this so you don't immediately die because you spawned next to a zombie in the tree",
+
+    Sandbox_PurgeDistance = "Purge Distance",
+    Sandbox_PurgeDistance_tooltip = "This is how far the decimator will, well, decimate zombies, only runs once at spawn",
+}
